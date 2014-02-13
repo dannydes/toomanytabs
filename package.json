@@ -1,0 +1,1 @@
+{"license": "", "description": "Warns you when you reach 100 tabs", "contributors": [], "author": "danieldesira", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev6", "lib": "lib", "fullName": "TooManyTabs", "main": "main", "id": "jid0-ZNjW6EzCwrP4JUM2pk054DZke7o", "name": "toomanytabs"}
